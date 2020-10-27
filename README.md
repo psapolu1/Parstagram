@@ -1,5 +1,6 @@
 # Parstagram
-Fake Instagram
-Sign in, open camera, post to parse.  Did not get to finish on time.
+Fake Instagram Part 1
 
-second submission: sign in, photo on table cell, comments posted on parse
+Sign in, logging in, posting a photo and loading the feed 
+
+Part 2:  sign in, photo on table cell, comments posted on parse

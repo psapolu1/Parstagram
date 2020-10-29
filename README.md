@@ -31,3 +31,5 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 http://g.recordit.co/21Aexrqe3t.gif
+
+** pictures all of a sudden stopped showing close to the end time of project.  Comments also stopped showing.  Still trying to figure it out.
